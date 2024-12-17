@@ -10,11 +10,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "gulp": "^4.0.2"
-  },
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-imagemin": "^7.1.0",
+    "gulp-images": "^0.0.3",
     "gulp-obfuscate": "^0.2.9",
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
@@ -23,5 +22,3 @@
     "uglify": "^0.1.5"
   }
 }
-
-
